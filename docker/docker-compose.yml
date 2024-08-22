@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  portfolio-website:
+    image: hugomods/hugo:latest
+    container_name: portfolio-website
+    restart: always
+    command: "hugo server -p 6969 --bind 0.0.0.0"
+    ports:
+      - "8080:6969"
+    expose:
+      - 6969
+    volumes:
+      - ../:/src
