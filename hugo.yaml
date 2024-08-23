@@ -1,7 +1,7 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Chung Ho Duc Portfolio"
-theme: hugo-profile
+theme: hugo-profile-customize
 
 outputs:
   home:
