@@ -170,7 +170,8 @@ params:
         - "Docker"
         - "Kubernetes"
         - "Kafka"
-        - "SQL & NoSQL"
+        - "SQL"
+        - "NoSQL"K
 
   # Experience
   experience:
@@ -253,7 +254,7 @@ params:
         school:
           name: "Bauhaus-Universität Weimar"
           url: "https://uni-weimar.de"
-        date: "2022 - 2024"
+        date: "2021 - 2024"
         GPA: "on going"
         content: |-
           Thesis: Enhancing Narrative Diversity in Storytelling: A Multi-LLM Approach to Collaborative Story Generation
