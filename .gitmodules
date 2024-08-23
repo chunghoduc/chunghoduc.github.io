@@ -1,9 +1,4 @@
-[submodule "themes/hugo-profile"]
-	path = themes/hugo-profile
-	url = https://github.com/gurusabarish/hugo-profile.git
-[submodule "themes/adritian-portfolio"]
-	path = themes/adritian-portfolio
-	url = https://github.com/zetxek/adritian-free-hugo-theme.git
 [submodule "themes/hugo-profile-customize"]
 	path = themes/hugo-profile-customize
 	url = git@github.com:chunghoduc/hugo-profile-customize.git
+	branch = deploy/chunghd-portfolio
